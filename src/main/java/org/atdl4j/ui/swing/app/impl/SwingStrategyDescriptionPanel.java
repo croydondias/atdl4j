@@ -25,7 +25,7 @@ public class SwingStrategyDescriptionPanel
 	private JPanel container;
 	private JTextArea strategyDescription;
 
-	private int DEFAULT_STRATEGY_DESCRIPTION_ROWS = 4;
+	private int DEFAULT_STRATEGY_DESCRIPTION_ROWS = 8;
 
 	public Object buildStrategyDescriptionPanel(Object parentOrShell, Atdl4jOptions atdl4jOptions)
 	{
